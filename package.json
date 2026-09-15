@@ -1,0 +1,31 @@
+{
+  "name": "joni-ai-assistant",
+  "version": "1.0.0",
+  "description": "JONI - Complete AI Voice Assistant with Cloud Sync and Social Media Integration",
+  "main": "backend/src/index.js",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../web && npm install",
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "web": "cd web && npm start",
+    "web:build": "cd web && npm run build",
+    "android": "cd android && ./gradlew build",
+    "test": "cd backend && npm test",
+    "docs": "echo 'See docs/ folder for documentation'"
+  },
+  "keywords": [
+    "AI",
+    "Voice",
+    "Assistant",
+    "Social Media",
+    "Android",
+    "Cloud",
+    "JONI"
+  ],
+  "author": "Basit Amaar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basitamaar7-creator/JONI-Android-Assistant.git"
+  }
+}

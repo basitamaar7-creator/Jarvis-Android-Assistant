@@ -1,4 +1,4 @@
-# 🤖 JARVIS - AI Voice Assistant System
+# 🤖 JONI - AI Voice Assistant System
 
 **Complete AI-Powered Voice Assistant for Android, Web & Laptop with Cloud Sync, Social Media Control, Digital Marketing & E-Commerce Integration**
 
@@ -84,7 +84,7 @@
 ## 📁 Project Structure
 
 ```
-Jarvis-Android-Assistant/
+JONI-Android-Assistant/
 ├── android/
 │   ├── app/
 │   │   ├── src/
